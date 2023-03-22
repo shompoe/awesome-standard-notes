@@ -56,13 +56,15 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) before sugg
 * [Subtle Light Theme](https://listed.to/p/4mweyGrLjo)
 * [One Dark](https://github.com/matta9001/sn-onedark) - One Dark color scheme based on Atom.
 * [One Dark Darker](https://github.com/eenpadvinder/standardnotes-theme-one-darker) - Based on the One Dark Darker theme for VS Code, with colored headings and some UI tweaks.
-* [Tangerine Theme](https://github.com/shompoe/sn-orange) - Newly updated for SN 3.9.15 onward. New installation link. Please re-install
+* [Tangerine Theme](https://github.com/shompoe/sn-orange) - A very dark theme with orange accent.
 * [Nord Theme](https://github.com/lzambarda/sn-nord-theme) - Nord Theme for Standard Notes, inspired by the beautiful Nord palette.
 * [sn-less-distraction](https://github.com/alecstein/sn-less-distraction) - A reduced version of the [No Distraction](https://standardnotes.org/extensions/no-distraction) theme which layers with other themes. The font is also little larger.
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) - Based on One Dark Darker (listed above), but with a light background.
 * [Yaru](https://github.com/ceiphr/sn-yaru-theme) - Based on Ubuntu's Yaru Theme, with a dark background. 
 * [Monospace for Markdown Editors](https://github.com/DanielNetoP/markdown-monospace) - Monospace font for Standard Notes markdown editors (Toggle on top of other themes)
 * [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) - Distraction free writing with word count
+* [Stone (dark)](https://github.com/shompoe/Dark-Stone2) - Dark theme based on a Material You palette.
+* [Stone (light)](https://github.com/shompoe/Light-Stone2) - Light theme based on a Material You palette.
 
 ### Editors
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor)
